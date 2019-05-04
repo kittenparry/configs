@@ -1,0 +1,14 @@
+display:
+  mode: fullscreen_borderless
+  window_resolution:
+    width: 1920
+    height: 1061
+  fullscreen_resolution:
+    width: 1920
+    height: 1080
+audio: {}
+loco_install_path: G:\SteamLibrary\steamapps\common\Locomotion
+language: en-GB
+breakdowns_disabled: true
+scale_factor: 1.25
+zoom_to_cursor: true
