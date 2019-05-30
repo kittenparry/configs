@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+	<s id="Video.Width">1920</s>
+	<s id="Video.Height">1080</s>
+	<s id="Options.GraphicsQuality">0</s>
+	<s id="Options.UseLOD">0</s>
+	<s id="Options.Crowd">2</s>
+	<s id="Options.Physics">0</s>
+	<s id="Options.Flares">1</s>
+	<s id="Options.FrontRowCamera">0</s>
+	<s id="Keyboard_Menu">GREEN 308 218 RED 236 YELLOW 227 BLUE 313 ORANGE 210 CANCEL 999 START 219 BACK 235 402 311 DOWN 400 231 UP 401 327 WHAMMY 310 408 KICK 318 LEFT 265 RIGHT 309 </s>
+	<s id="Audio.BuffLen">2048</s>
+	<s id="AutoLogin">OFF</s>
+	<s id="Username"></s>
+	<s id="MatchUsername"></s>
+	<s id="Password"></s>
+	<s id="Keyboard_Guitar">GREEN 218 308 RED 236 YELLOW 227 BLUE 313 ORANGE 210 STAR 402 318 CANCEL 999 START 219 235 BACK 999 DOWN 400 231 UP 401 327 WHAMMY 310 408 LEFT 265 RIGHT 309 </s>
+</r>
