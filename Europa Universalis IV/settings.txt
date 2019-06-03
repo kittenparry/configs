@@ -28,7 +28,7 @@ scroll_speed=50.000000
 camera_rotation_speed=50.000000
 zoom_speed=50.000000
 mouse_speed=50.000000
-master_volume=66.666672
+master_volume=35.000000
 ambient_volume=17.000000
 dev_master_volume=50.000000
 graceful_exit=no
@@ -82,7 +82,7 @@ diplomacy_popup={
 	10 
 }
 primary_mapmode_names={
-	{ GFX_mapmode_simple_terrain GFX_mapmode_empire GFX_mapmode_players_small GFX_mapmode_colonial } { GFX_mapmode_political } { GFX_mapmode_trade GFX_mapmode_trade_goods } { GFX_mapmode_religion GFX_mapmode_diplomatic } { GFX_mapmode_culture GFX_mapmode_acceptedculture } { GFX_mapmode_rebel GFX_mapmode_tech GFX_mapmode_terrain } { GFX_mapmode_areas GFX_mapmode_region GFX_mapmode_colonial_regions } { GFX_mapmode_states_territories GFX_mapmode_rival GFX_mapmode_loot } { GFX_mapmode_coalition GFX_mapmode_economical } { GFX_mapmode_dynasty GFX_mapmode_government } 
+	{ GFX_mapmode_simple_terrain GFX_mapmode_empire GFX_mapmode_players_small GFX_mapmode_colonial } { GFX_mapmode_political } { GFX_mapmode_trade GFX_mapmode_trade_goods } { GFX_mapmode_religion GFX_mapmode_diplomatic } { GFX_mapmode_culture GFX_mapmode_acceptedculture } { GFX_mapmode_rebel GFX_mapmode_tech GFX_mapmode_terrain } { GFX_mapmode_areas GFX_mapmode_region GFX_mapmode_colonial_regions } { GFX_mapmode_states_territories GFX_mapmode_rival GFX_mapmode_loot } { GFX_mapmode_coalition GFX_mapmode_economical GFX_mapmode_fortlevel } { GFX_mapmode_dynasty GFX_mapmode_government } 
 }
 last_mods={
 	"mod/arumbauncoveredacceptanceindicator.mod"
