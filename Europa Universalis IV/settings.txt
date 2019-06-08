@@ -31,7 +31,6 @@ mouse_speed=50.000000
 master_volume=35.000000
 ambient_volume=17.000000
 dev_master_volume=50.000000
-graceful_exit=no
 combat_sound_random=6
 mapRenderingOptions={
 	draw_terrain=yes
@@ -40,21 +39,21 @@ mapRenderingOptions={
 	draw_trees=no
 	draw_rivers=yes
 	draw_lakes=yes
-	draw_postfx=yes
+	draw_postfx=no
 	draw_sky=yes
-	draw_bloom=yes
+	draw_bloom=no
 	draw_tooltips=yes
 	draw_hires_terrain=no
 	draw_citysprawl=yes
-	draw_shadows=yes
-	draw_reflections=yes
+	draw_shadows=no
+	draw_reflections=no
 	draw_ambient_objects=yes
-	draw_particles=yes
+	draw_particles=no
 	moving_units=no
 	minimap_units=yes
-	draw_terrain_in_uncolonized=yes
+	draw_terrain_in_uncolonized=no
 	draw_state_borders=yes
-	use_compact_battle_result=no
+	use_compact_battle_result=yes
 }
 camera_speed=50.000000
 camera_tilt=100.000000
@@ -73,16 +72,19 @@ outliner={
 outliner_open=yes
 messagelist_open=no
 windowmovetime=0.200000
-floating_chat_text=yes
+floating_chat_text=no
 hints=no
-autosave_on_events=yes
-autopause_in_countryview=yes
+autosave_on_events=no
+autopause_in_countryview=no
 told_user_autopause=no
 diplomacy_popup={
 	10 
 }
 primary_mapmode_names={
 	{ GFX_mapmode_simple_terrain GFX_mapmode_empire GFX_mapmode_players_small GFX_mapmode_colonial } { GFX_mapmode_political } { GFX_mapmode_trade GFX_mapmode_trade_goods } { GFX_mapmode_religion GFX_mapmode_diplomatic } { GFX_mapmode_culture GFX_mapmode_acceptedculture } { GFX_mapmode_rebel GFX_mapmode_tech GFX_mapmode_terrain } { GFX_mapmode_areas GFX_mapmode_region GFX_mapmode_colonial_regions } { GFX_mapmode_states_territories GFX_mapmode_rival GFX_mapmode_loot } { GFX_mapmode_coalition GFX_mapmode_economical GFX_mapmode_fortlevel } { GFX_mapmode_dynasty GFX_mapmode_government } 
+}
+last_dlcs={
+	"dlc/special/dlc674_cradle_of_civilization_free/dlc674.dlc"
 }
 last_mods={
 	"mod/arumbauncoveredacceptanceindicator.mod"
@@ -93,6 +95,6 @@ seen_legal_documents={
 	"privacy-policy-2018-11-02"
 }
 been_told_of_low_vram=no
-dismissed_news_banner=8
+dismissed_news_banner=9
 full_dump=no
 rich_presence=yes
