@@ -25,8 +25,12 @@
 		"files.insertFinalNewline": false,
 	},
 	"git.enableSmartCommit": true,
-	// "git.autofetch": true,
+	"git.autofetch": true,
 	"editor.detectIndentation": false,
 	"editor.insertSpaces": false,
-	"editor.parameterHints.enabled": false
+	"editor.parameterHints.enabled": false,
+	"[javascript]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"editor.formatOnSave": true
 }
