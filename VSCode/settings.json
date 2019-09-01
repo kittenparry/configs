@@ -32,5 +32,10 @@
 	"[javascript]": {
 		"editor.defaultFormatter": "HookyQR.beautify"
 	},
-	"editor.formatOnSave": true
+	"editor.formatOnSave": true,
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"python.jediEnabled": false,
+	"python.formatting.provider": "none",
+	"editor.rulers": [120]
 }
