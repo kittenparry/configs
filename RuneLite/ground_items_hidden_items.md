@@ -1,1 +1,1 @@
-Vial, Ashes, Bones, Bucket, Jug, Seaweed, Grimy tarromin, Grimy guam leaf, Grimy marrentill, Belladonna seed, Irit seed, Potato cactus seed, Cactus seed, Steel axe, Steel battleaxe, Thread, Poison ivy seed, Mithril axe, Black med helm, Bow string, Black boots, Meat pie
+Vial, Ashes, Bones, Bucket, Jug, Seaweed, Grimy tarromin, Grimy guam leaf, Grimy marrentill, Belladonna seed, Irit seed, Potato cactus seed, Cactus seed, Steel axe, Steel battleaxe, Thread, Poison ivy seed, Mithril axe, Black med helm, Bow string, Black boots, Meat pie, Pure essence
